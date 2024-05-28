@@ -3,6 +3,7 @@
 ### Using the LightGlue feature extractor, implemented a Visual Odometry system to estimate the camera's motion in a 3D environment.
 
 ![vo](vo.png)
+![gif](animation.gif)
 
 ## Getting Started
 
